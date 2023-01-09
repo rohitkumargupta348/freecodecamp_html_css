@@ -1,8 +1,8 @@
 # freecodecamp_html_css
 
-//freecodecamp_html
+<!-- //freecodecamp_html
 
-//index.html
+//index.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -69,7 +69,7 @@
   </body>
 </html>
 
-//css_freecodecamp
+<!-- //css_freecodecamp
 
 //index.html
 <!DOCTYPE html>
@@ -77,9 +77,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colored Markers</title>
+    <title>Colored Markers</title> -->
 <!--     <link rel="stylesheet" href="styles1.css"> -->
-    <style>
+<!--     <style>
       h1 {
     text-align: center;
   }
@@ -145,7 +145,7 @@
       </div>
     </div>
   </body>
-</html>
+</html> -->
 
 <!-- //styles1.css
 h1 {
